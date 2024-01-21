@@ -1,0 +1,16 @@
+\\Mac\Home\Desktop\Back-End Technologies Basic\03. Exercise Data Formats\JsonParser\JsonParser\bin\Debug\net8.0\JsonParser.exe
+\\Mac\Home\Desktop\Back-End Technologies Basic\03. Exercise Data Formats\JsonParser\JsonParser\bin\Debug\net8.0\Datasets\Books.json
+\\Mac\Home\Desktop\Back-End Technologies Basic\03. Exercise Data Formats\JsonParser\JsonParser\bin\Debug\net8.0\Datasets\Students.json
+\\Mac\Home\Desktop\Back-End Technologies Basic\03. Exercise Data Formats\JsonParser\JsonParser\bin\Debug\net8.0\JsonParser.deps.json
+\\Mac\Home\Desktop\Back-End Technologies Basic\03. Exercise Data Formats\JsonParser\JsonParser\bin\Debug\net8.0\JsonParser.runtimeconfig.json
+\\Mac\Home\Desktop\Back-End Technologies Basic\03. Exercise Data Formats\JsonParser\JsonParser\bin\Debug\net8.0\JsonParser.dll
+\\Mac\Home\Desktop\Back-End Technologies Basic\03. Exercise Data Formats\JsonParser\JsonParser\bin\Debug\net8.0\JsonParser.pdb
+\\Mac\Home\Desktop\Back-End Technologies Basic\03. Exercise Data Formats\JsonParser\JsonParser\obj\Debug\net8.0\JsonParser.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Back-End Technologies Basic\03. Exercise Data Formats\JsonParser\JsonParser\obj\Debug\net8.0\JsonParser.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Back-End Technologies Basic\03. Exercise Data Formats\JsonParser\JsonParser\obj\Debug\net8.0\JsonParser.AssemblyInfo.cs
+\\Mac\Home\Desktop\Back-End Technologies Basic\03. Exercise Data Formats\JsonParser\JsonParser\obj\Debug\net8.0\JsonParser.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Back-End Technologies Basic\03. Exercise Data Formats\JsonParser\JsonParser\obj\Debug\net8.0\JsonParser.dll
+\\Mac\Home\Desktop\Back-End Technologies Basic\03. Exercise Data Formats\JsonParser\JsonParser\obj\Debug\net8.0\refint\JsonParser.dll
+\\Mac\Home\Desktop\Back-End Technologies Basic\03. Exercise Data Formats\JsonParser\JsonParser\obj\Debug\net8.0\JsonParser.pdb
+\\Mac\Home\Desktop\Back-End Technologies Basic\03. Exercise Data Formats\JsonParser\JsonParser\obj\Debug\net8.0\JsonParser.genruntimeconfig.cache
+\\Mac\Home\Desktop\Back-End Technologies Basic\03. Exercise Data Formats\JsonParser\JsonParser\obj\Debug\net8.0\ref\JsonParser.dll

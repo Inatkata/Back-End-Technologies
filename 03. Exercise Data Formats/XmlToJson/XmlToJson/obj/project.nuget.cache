@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "GpnWWkZbZdgtFOaWyPViX0Gmcj7b4y2BOY55QxWFV6Vf975PJQGI4ljZ8pjXJxBk/vHCpIGoedysISsAaD2PuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ina\\Desktop\\Back-End Technologies Basic\\03. Exercise Data Formats\\XmlToJson\\XmlToJson\\XmlToJson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ina\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Ina\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Ina\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Ina\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
